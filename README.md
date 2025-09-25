@@ -1,5 +1,5 @@
-# MatchUsernames
-Project that match name, surname, email and usernames from different sources. 
+# MatchUsernames - RapidFuzz - Phyton
+Example of a real use case of Phyton and RapizFuzz library to match name, surname, email and usernames from different sources. 
 We used test data in the example test files provided. Test data led to 100% match.
 In our real life user case we had to match a list of users from an ERP with a list of email addresses of the same company. 
 Additional complexity encountered was: 
